@@ -1,0 +1,7 @@
+name = "ImageViewer"
+uuid = "b0e28634-578f-49fb-b3cb-2bf9080521fe"
+authors = ["Anna G"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
